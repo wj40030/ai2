@@ -12,5 +12,7 @@
             "name": "Jakub Woźniak"
         }
     ],
-    "require": {}
+    "require": {
+        "monolog/monolog": "^3.12"
+    }
 }
