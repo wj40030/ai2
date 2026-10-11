@@ -1,0 +1,16 @@
+{
+    "name": "jwozniak/lab-composer",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jwozniak\\LabComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jakub Woźniak"
+        }
+    ],
+    "require": {}
+}
